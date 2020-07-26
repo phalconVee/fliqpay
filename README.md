@@ -78,6 +78,8 @@ Note that after starting the server and ensuring mongod is up and running, the d
 
 The default URL is: _http://localhost:4000_
 
+Also, the postman collection is available publicly via [POSTMAN](https://documenter.getpostman.com/view/3832128/T1Dqfwmt?version=latest#intro)
+
 The project has been setup to use Jest for unit testing and supertest for integration testing (not so familiar with cypress), and MongoDB-memory-server that allows us to start a mongod process that stores data in memory.
 
 The MongoDB-in Memory Server was used to simulate how to test dummy data will be saved into your real database. Basically providing a layer to store data in memory only during tests.
