@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "5f1a3b794aa2997a30bb206b"
+  },
+  "ticketId": {
+    "$oid": "5f1a14b42ab4896d4b9bd9b3"
+  },
+  "message": "Hello John, please kindly note that the prices of our services were reviewed lst month and appropriate email was sent out to our customers. Check your email log to confirm. Cheers!",
+  "user": {
+    "$oid": "5f1a006ef81bb563d7fcd85b"
+  },
+  "type": "agent",
+  "created_at": {
+    "$date": "2020-07-24T01:38:01.603Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a3e7a72a3887b7e41739d"
+  },
+  "ticketId": {
+    "$oid": "5f1a14b42ab4896d4b9bd9b3"
+  },
+  "message": "Hi, I am yet to get a response on this?",
+  "user": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "type": "customer",
+  "created_at": {
+    "$date": "2020-07-24T01:50:50.722Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1c449bfe394d5c3dc3fdbf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1cef20fbd9a197d5f3594d"
+  },
+  "ticketId": {
+    "$oid": "5f1a14b42ab4896d4b9bd9b3"
+  },
+  "message": "whats going on pls?",
+  "user": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "type": "customer",
+  "created_at": {
+    "$date": "2020-07-26T02:49:04.447Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1d6e09cb7d0da455b17ddc"
+  },
+  "ticketId": {
+    "$oid": "5f1a14b42ab4896d4b9bd9b3"
+  },
+  "message": "Kindly check if the issue has been resolved. Cheers!!!",
+  "user": {
+    "$oid": "5f1a006ef81bb563d7fcd85b"
+  },
+  "type": "agent",
+  "created_at": {
+    "$date": "2020-07-26T11:50:34.004Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1d6e3bcb7d0da455b17ddd"
+  },
+  "ticketId": {
+    "$oid": "5f1a14b42ab4896d4b9bd9b3"
+  },
+  "message": "At the moment, it has.",
+  "user": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "type": "customer",
+  "created_at": {
+    "$date": "2020-07-26T11:51:23.621Z"
+  },
+  "__v": 0
+}]

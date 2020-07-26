@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "name": "Okafor John",
+  "email": "john.okafor@gmail.com",
+  "password": "$2a$10$vVTtX9dmXTxG1oNx7TbEBeKL3kj68l2Q7GDLk80OF2UcWzy4/MYDy",
+  "phone": 8133396477,
+  "created_at": {
+    "$date": "2020-07-23T01:08:11.335Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a06841a762966c64f4a32"
+  },
+  "name": "Abbas Olorogun",
+  "email": "abbas.olorogun@gmail.com",
+  "password": "$2a$10$w3nP.d5EZI6lAnyQ9biNNO7phfDil6.EkxzkmkpnZaie2lqyxBqLW",
+  "phone": 8166601865,
+  "created_at": {
+    "$date": "2020-07-23T21:52:04.691Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a06991a762966c64f4a33"
+  },
+  "name": "Timi Silva",
+  "email": "timiboi@yahoo.co.uk",
+  "password": "$2a$10$gjw5pGPHmOIXoRwW7leY4u9XH9M/BMbkK8o33WvOLvL9Y8Q7hxtVm",
+  "phone": 8166601865,
+  "created_at": {
+    "$date": "2020-07-23T21:52:25.017Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a06cf1a762966c64f4a34"
+  },
+  "name": "Gbenga Daniel",
+  "email": "gbenga1990@hotmail.com",
+  "password": "$2a$10$//cetoujYjmgUe3GzqvUKOBW/ds8Do.ZyGHoJFZFs0zw5T0eP09ty",
+  "phone": 8166601865,
+  "created_at": {
+    "$date": "2020-07-23T21:53:19.939Z"
+  },
+  "__v": 0
+}]

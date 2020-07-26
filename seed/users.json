@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5f1961aa08464b286d4bb10b"
+  },
+  "name": "Henry Ugochukwu",
+  "email": "ugo@fliqpay.co",
+  "password": "$2a$10$q55JtFu5mlNcvjdr/Ybr/ONbBTJIJY9K.2d.HU4D6F/GVV/oYycGa",
+  "role": "admin",
+  "created_date": {
+    "$date": "2020-07-23T10:08:42.538Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a002ef81bb563d7fcd85a"
+  },
+  "name": "Wole Ariyo",
+  "email": "wole.ariyo@fliqpay.co",
+  "password": "$2a$10$Kv6dplUyXjTv4g5UvDOLKuXkQDLQh2s/XLi0auOpCrD5AunZ49F/m",
+  "role": "admin",
+  "created_date": {
+    "$date": "2020-07-23T21:25:02.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a006ef81bb563d7fcd85b"
+  },
+  "name": "Chibuike Amaechi",
+  "email": "chibuike@fliqpay.co",
+  "password": "$2a$10$xQ8IubJvayxFhIUrxGSOtuUiqM5gFtCnFCZCubDu3dV1a96LXtjom",
+  "role": "agent",
+  "created_date": {
+    "$date": "2020-07-23T21:26:06.805Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a008ef81bb563d7fcd85c"
+  },
+  "name": "Foluke Ayobami",
+  "email": "foluke@fliqpay.co",
+  "password": "$2a$10$XOnfzTdggqHqJkrDhVt.1.zcDWKrLUVHsngF/a/jJ0AvpPJ7VkzAG",
+  "role": "agent",
+  "created_date": {
+    "$date": "2020-07-23T21:26:38.032Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a00bbf81bb563d7fcd85d"
+  },
+  "name": "Kadija Usman",
+  "email": "kadija@fliqpay.co",
+  "password": "$2a$10$tkMPDWI1dKXZRYbmE7jF6eeiMWjMDXZKssxgZzbTjx6Y5Th3MrQuS",
+  "role": "agent",
+  "created_date": {
+    "$date": "2020-07-23T21:27:23.046Z"
+  },
+  "__v": 0
+}]

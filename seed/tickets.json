@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5f1a14b42ab4896d4b9bd9b3"
+  },
+  "isClosed": true,
+  "topic": "billing",
+  "subject": "I was Overbilled",
+  "message": "I was overbilled last month and will kindly request for a refund",
+  "requestedBy": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "created_at": {
+    "$date": "2020-03-24T20:35:05.783Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a1e94a280fc7094513a37"
+  },
+  "isClosed": true,
+  "topic": "website",
+  "subject": "Can't seem to restart my hosting account",
+  "message": "I am trying to restart my aache server on my hosting account but having issues.",
+  "requestedBy": {
+    "$oid": "5f1a06841a762966c64f4a32"
+  },
+  "created_at": {
+    "$date": "2020-04-23T23:34:44.796Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a47b2dc65d07e6b364339"
+  },
+  "isClosed": false,
+  "topic": "website",
+  "subject": "Htaccess issue",
+  "message": "I have ben battling with .htaccess issue since yesterday on my webste jondoe.com. Kindly assist.",
+  "requestedBy": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "created_at": {
+    "$date": "2020-05-24T02:30:10.341Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a48c33d7c477ec1e84c86"
+  },
+  "isClosed": true,
+  "topic": "account",
+  "subject": "Vertical Scaling of my Hosting Account",
+  "message": "I want to request for the vertical scaling of my hosting account",
+  "requestedBy": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "created_at": {
+    "$date": "2020-06-24T20:56:17.236Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a51039cacb4820dff734f"
+  },
+  "isClosed": true,
+  "topic": "website",
+  "subject": "Link up Cloudflare",
+  "message": "Hi, I'd like to know how I can link up cloudflare to my main website",
+  "requestedBy": {
+    "$oid": "5f18e2fbf5180916e33faf68"
+  },
+  "created_at": {
+    "$date": "2020-07-24T03:09:55.907Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1d8c799ab9c8b12750af7a"
+  },
+  "isClosed": false,
+  "topic": "account",
+  "subject": "How to enable 2-factor authentication",
+  "message": "I am tyring to enable 2-factor authentication on my host account",
+  "requestedBy": {
+    "$oid": "5f1a06991a762966c64f4a33"
+  },
+  "created_at": {
+    "$date": "2020-07-26T14:00:25.214Z"
+  },
+  "__v": 0
+}]
