@@ -1,4 +1,4 @@
-# Fliqpay Payment Service
+# Fliqpay
 
 A lightweight payment and reconciliation service.
 
